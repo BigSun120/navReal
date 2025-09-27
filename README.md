@@ -150,10 +150,4 @@ git push
 npm run update
 ```
 
-## LICENSE
 
-For commercial sites, themes, projects, and applications, keep your source code private/proprietary by purchasing a [Commercial License](https://official.nav3.cn/pricing).
-
-Licensed under the GNU General Public License 3.0 for compatible open source projects and non-commercial use.
-
-Copyright 2024-present xiejiahe
